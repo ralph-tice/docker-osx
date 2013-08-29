@@ -15,7 +15,7 @@
 # and limitations under the License.
 
 export VAGRANT_CWD="$HOME/.docker"
-export DOCKER_VERSION=0.5.0
+export DOCKER_VERSION=0.6.0
 export FORWARD_DOCKER_PORTS="yes"
 
 function upgrade_docker {
